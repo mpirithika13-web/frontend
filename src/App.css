@@ -186,7 +186,7 @@ header{
 }
  .my{
   display: flex;
-
+margin-left: 5px;
   color: white;
   align-items: center;
 }
