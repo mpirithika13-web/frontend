@@ -186,7 +186,7 @@ header{
 }
  .my{
   display: flex;
-  gap: 20px;
+
   color: white;
   align-items: center;
 }
